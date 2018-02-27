@@ -4,3 +4,13 @@
 .animated .block-reveal{
     height: 450px;
 }
+ul.list_ok li:before{
+    font-size: 1.5rem;
+}
+.reseachtable-head{
+    background: #f2f2f2;
+}
+.download-btn{
+    background-color: #4b3d7c;
+    border-color: #4b3d7c;
+}
